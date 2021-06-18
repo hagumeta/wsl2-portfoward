@@ -18,8 +18,8 @@ In Windows terminal
 - add <port>  
 `wsl --exec bash /var/opt/portfoward.sh add 8080`
 
-- del <port>
+- del <port>  
 `wsl --exec bash /var/opt/portfoward.sh del 8080`
 
-- list
+- list  
 `wsl --exec bash /var/opt/portfoward.sh list`
