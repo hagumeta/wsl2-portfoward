@@ -1,0 +1,9 @@
+wsl2でsshサーバを起動し、外部からそこに接続
+https://qiita.com/yabeenico/items/15532c703974dc40a7f5
+
+
+
+
+〇init
+
+# sudo apt install net-tools
